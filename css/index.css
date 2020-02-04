@@ -1,0 +1,209 @@
+body,div,p{
+	margin: 0;
+	padding: 0;
+}
+@font-face {
+	font-family:"avenir_light";
+	src: url("font/avernir_light.ttf");
+}
+@font-face {
+	font-family:"avenir_oblique";
+	src: url("font/avenir_oblique.ttf");
+}
+@font-face {
+	font-family:"avenir_black";
+	src: url("font/avenir_black.ttf");
+}
+@font-face {
+	font-family:"avenir_book";
+	src: url("font/avenir_book.ttf");
+}
+.topbox{
+	width: 240px;
+	float: right;
+}
+.topbox{
+	text-align: right;
+}
+.top{
+	height: 200px;
+}
+.top p{
+	margin-top: 10px;
+	font-size: 12px;
+	font-family: "avenir_oblique";
+}
+.box{
+	width: 100%;
+}
+.box1{
+	margin-top: -30px;
+	height: 750px;
+}
+.box2{
+	height: 700px;
+}
+.box3{
+	height: 650px;
+}
+.left1{
+	font-family: "avenir_light";
+	width: 100px;
+	letter-spacing: 3rem;
+	height: 600px;
+	margin-left: 30px;
+	float: left;
+	font-size: 90px;
+	writing-mode:vertical-rl;
+}
+.p11{
+	text-align: right;
+	-moz-transform: rotate(180deg);
+	-webkit-transform: rotate(180deg);  
+	filter:progid:DXImageTransform.Microsoft.BasicImage(rotation=3)
+}
+.r11{
+	float: left;
+	width: 80%;
+	margin-top: 50px;
+	font-family: "avenir_oblique";
+}
+.r11 p{
+	width: 550px;
+	margin-left: 20px;
+}
+.r12{
+	font-family: "avenir_black";
+	float: left;
+	width: 80%;
+	margin-top: 30px;
+}
+.r12 p{
+	width: 500px;
+	margin-left: 150px;
+}
+.r13{
+	font-family: "avenir_black";
+	float: left;
+	width: 80%;
+	margin-top: 30px;
+}
+.r13 p{
+	width: 500px;
+	margin-left: 250px;
+}
+.r14{
+	font-family: "avenir_book";
+	float: left;
+	width: 80%;
+	margin-top: 30px;
+}
+.r14 p{
+	width: 500px;
+	margin-left: 350px;
+}
+.r15{
+	font-family: "avenir_black";
+	float: left;
+	width: 80%;
+	margin-top: 30px;
+}
+.r15 p{
+	width: 500px;
+	margin-left: 450px;
+}
+
+.left2{
+	margin-top: 30px;
+	font-family: "avenir_light";
+	width: 100px;
+	letter-spacing: 3rem;
+	height: 600px;
+	margin-left: 50%;
+	float: left;
+	font-size: 90px;
+	writing-mode:vertical-rl;
+}
+.r21{
+	font-family: "avenir_oblique";
+	float: left;
+	width: 35%;
+}
+.r21 p{
+	margin-top: 170px;
+	margin-left: 30px;
+	width: 550px;
+}
+.r22{
+	font-family: "avenir_black";
+	float: left;
+	width: 35%;
+	margin-top: 60px;
+}
+.r22 p{
+	width: 550px;
+	margin-left: 30px;
+}
+.r23{
+	font-family: "avenir_book";
+	float: left;
+	width: 35%;
+	margin-top: 60px;
+}
+.r23 p{
+	width: 550px;
+	margin-left: 30px;
+}
+
+
+.left3{
+	margin-top: -30px;
+	font-family: "avenir_light";
+	width: 100px;
+	letter-spacing: 3rem;
+	height: 600px;
+	margin-left: 30px;
+	float: left;
+	font-size: 90px;
+	writing-mode:vertical-rl;
+}
+.r31{
+	float: left;
+	width: 80%;
+}
+.r31 p{
+	font-family: "avenir_oblique";
+	width: 550px;
+	margin-left: 400px;
+}
+.r32{
+	float: left;
+	width: 80%;
+	margin-top: 40px;
+}
+.r32 p{
+	font-family: "avenir_book";
+	width: 550px;
+	margin-left: 300px;
+}
+.r33{
+	float: left;
+	width: 80%;
+	margin-top: 40px;
+}
+.r33 p{
+	font-family: "avenir_book";
+	width: 550px;
+	margin-left: 130px;
+}
+.r34{
+	float: left;
+	width: 80%;
+	margin-top: 40px;
+}
+.r34 p{
+	font-family: "avenir_book";
+	width: 560px;
+	margin-left: 30px;
+}
+
